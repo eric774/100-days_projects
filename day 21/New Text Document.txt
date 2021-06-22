@@ -1,0 +1,8 @@
+starting screen :
+    warning - dont fullscreen,
+    highscore
+    click to start
+    use arrow keys to move
+    game over when - bites own tail, hit wall
+
+set button for restart function
